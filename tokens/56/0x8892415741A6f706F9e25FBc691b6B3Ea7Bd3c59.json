@@ -1,0 +1,8 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 18,
+  "address": "0x8892415741A6f706F9e25FBc691b6B3Ea7Bd3c59",
+  "chainId": 56,
+  "logoURI": "https://raw.githubusercontent.com/gisac2074/flash-usdt-tokenlist/main/logo.png"
+}
